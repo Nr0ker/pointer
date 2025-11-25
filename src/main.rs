@@ -25,7 +25,7 @@ fn main() {
 
     println!("{r1}, {r2}");
 
-   
+}
 
     // this code will throw an error if the r1 is not comented
 
